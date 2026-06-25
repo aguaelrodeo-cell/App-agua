@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Registro de Medidores GPS",
+  "description": "Aplicación móvil con mapa GPS en tiempo real para registrar medidores de agua, usuarios desde Drive e historial mensual en Google Sheets.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
